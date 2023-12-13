@@ -21,3 +21,7 @@ You should probably make it a new folder. But you dont need to.
 3. Set up the path to the dir with the tool(s) in **vars.bat**, with T1PATH, T2PATH, or T3PATH. It should be syntaxed like it would be used with **CD**. Like tools/ unlike "tools/".
 4. Set up the filename to the tool in **vars.bat**. The var name is T1FILENAME, T2FILENAME, or T3FILENAME.
 **(OPTIONAL)**: Setup the postmultitool var to whatever number you like.
+
+
+# FULL
+**WARNING:** The full version isnt pure BATCH and is mostly python. But it does accept batch files as tools!
