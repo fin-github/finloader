@@ -3,14 +3,15 @@ Want a EXTREMELY easy multitool base (THAT ISNT FILLED WITH BLOAT), well use fin
 
 All you have to do is install 2 files and you have the loader installed!
 
-# What is the purpose
+# LITE
+## What is the purpose
 The purpose is to help you with a simple base for a multitool. All you have to do is add your tools, tell the program where your tools are, and done!
 
-# How to install
+## How to install
 Install **main.bat** and **vars.bat**.
 You should probably make it a new folder. But you dont need to.
 
-# How to make tools with it
+## How to make tools with it
 1. DONT TOUCH MAIN.BAT!!! Its all ready for use, and all you have to do is set up **vars.bat**.
 2. Make your tool in the same dir.
 3. Setup **vars.bat**
@@ -25,3 +26,7 @@ You should probably make it a new folder. But you dont need to.
 
 # FULL
 **WARNING:** The full version isnt pure BATCH and is mostly python. But it does accept batch files as tools!
+
+**WARNING:** This uses python as the actual tool base. Which means 3 things. 1. Its not as impressive as pure batch. 2. Its Slower 3. Its hard to debug. If you only know batch, you can probably do it. But tbh i recommend LITE.
+
+Its pretty simple and i dont like writing docs sooooo yea. You just have to edit **vars.py**.
