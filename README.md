@@ -16,7 +16,6 @@ You should probably make it a new folder. But you dont need to.
 2. Make your tool in the same dir.
 3. Setup **vars.bat**
 ### How to set up VARS.BAT
-**FYI:** Theres only 3 spots for tools. Ill make it dynamic in the FULL version (coming out possibly in my lifetime)
 1. Make your tool (it doesnt require any special code, the bat will just be ran)
 2. Set the name in **vars.bat**. It should be T1NAME, T2NAME, or T3NAME (tool 1 name, tool 2 name, tool 3 name)
 3. Set up the path to the dir with the tool(s) in **vars.bat**, with T1PATH, T2PATH, or T3PATH. It should be syntaxed like it would be used with **CD**. Like tools/ unlike "tools/".
