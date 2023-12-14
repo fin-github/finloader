@@ -30,3 +30,4 @@ You should probably make it a new folder. But you dont need to.
 **WARNING:** This uses python as the actual tool base. Which means 3 things. 1. Its not as impressive as pure batch. 2. Its Slower 3. Its hard to debug. If you only know batch, you can probably do it. But tbh i recommend LITE.
 
 Its pretty simple and i dont like writing docs sooooo yea. You just have to edit **vars.py**.
+To run it, run main.bat. It does itself from there.
