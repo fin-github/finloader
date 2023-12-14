@@ -15,6 +15,9 @@ You should probably make it a new folder. But you dont need to.
 1. DONT TOUCH MAIN.BAT!!! Its all ready for use, and all you have to do is set up **vars.bat**.
 2. Make your tool in the same dir.
 3. Setup **vars.bat**
+### What 3spots and 10spots?
+The difference is that 3 spots ONLY has 3 spots for tools. Using 10 spots allows you to have up to 10 tools.
+10spots can be good because you can make them all "-" and set the filename to the already made null.bat file.
 ### How to set up VARS.BAT
 1. Make your tool (it doesnt require any special code, the bat will just be ran)
 2. Set the name in **vars.bat**. It should be T1NAME, T2NAME, or T3NAME (tool 1 name, tool 2 name, tool 3 name)
